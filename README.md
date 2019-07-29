@@ -1,4 +1,4 @@
-# [DevDay] IOT-Workshop
+# [DevDay] IOT-Workshop mit dem ESP8266
 
 Dieses Repository enthält die Präsentation und alle Implementierungen der Übungen aus dem IOT-Workshop vom 20.02.2019.
 
